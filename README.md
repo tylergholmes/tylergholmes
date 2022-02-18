@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tylergholmes
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently studying Computer Science at Kennesaw State University
+- 🌱 I’m currently studying Computer Science
 
 <!---
 tylergholmes/tylergholmes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
